@@ -14,7 +14,7 @@
 * поддержка лексиконов;
 * загрузка параметров из файлов.
 
-Для работы DocLister требуется PHP 5.3 или выше.
+Для работы DocLister требуется PHP 5.6 или выше.
 
 [Github](https://github.com/AgelxNash/DocLister)
 
