@@ -33,7 +33,7 @@ $modx-&gt;documentIdentifier
 </pre>
 <h3 class="sub-header text-bold">tplFirst</h3>
 <p>Шаблон вывода первого пункта.</p>
-<p>Значение по умолчанию: нету</p>
+<p>Значение по умолчанию: нет</p>
 <p>Пример шаблона для домашней страницы</p>
 <pre class="brush: html;">
 @CODE:&lt;li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="home-link"&gt;
